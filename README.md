@@ -26,9 +26,9 @@
     <h2>Favorite Foods</h2>
     <ul>
       <li>Chicken Biryani</li>
-      <li>Dal Tadka</li>
-      <li>Vada Pav</li>
-      <li>Gulab Jamun</li>
+      
+      <li>Rice</li>
+      <li>Brief fry</li>
     </ul>
   </section>
 
@@ -47,7 +47,7 @@
     <h2>More About Me</h2>
     <details open>
       <summary>My Childhood</summary>
-      <p>I grew up in Basvantwadi, a very small village in Tuljapur. During my childhood I enjoyed farming and swimming a lot with my father. Since I no longer live there I really miss those awesome days and the natural environment of my village.</p>
+      <p>I grew up in Rajshahi, a very small village in Gurudaspur. During my childhood I enjoyed farming and swimming a lot with my father. Since I no longer live there I really miss those awesome days and the natural environment of my village.</p>
     </details>
   </section>
 
